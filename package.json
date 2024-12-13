@@ -1,4 +1,5 @@
 {
+  "homepage": "https://shivamoraon.github.io/",
   "name": "portfolio",
   "version": "0.0.1",
   "description": "A Portfolio Project to showcase the works of Shivam Oraon.",
@@ -12,6 +13,7 @@
     "test": "echo \"No test specified\" && exit 0",
     "dev": "quasar dev",
     "build": "quasar build",
+    "deploy": "quasar build && gh-pages -d dist/spa",
     "postinstall": "quasar prepare"
   },
   "dependencies": {
