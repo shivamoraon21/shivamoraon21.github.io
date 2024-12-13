@@ -1,0 +1,1 @@
+import{_ as e,r as t,o as r,c as n}from"./index-CB0b1PpX.js";const a={};function c(s,_,p,i,u,f){const o=t("router-view");return r(),n(o)}const m=e(a,[["render",c],["__file","MainLayout.vue"]]);export{m as default};
